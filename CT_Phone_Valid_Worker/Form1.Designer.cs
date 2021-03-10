@@ -39,9 +39,11 @@
             // 
             // txtPhone
             // 
+            this.txtPhone.BackColor = System.Drawing.SystemColors.Window;
             this.txtPhone.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold);
             this.txtPhone.Location = new System.Drawing.Point(199, 83);
             this.txtPhone.Name = "txtPhone";
+            this.txtPhone.ReadOnly = true;
             this.txtPhone.Size = new System.Drawing.Size(136, 30);
             this.txtPhone.TabIndex = 23;
             // 
@@ -57,9 +59,11 @@
             // 
             // txtDebtor
             // 
+            this.txtDebtor.BackColor = System.Drawing.SystemColors.Window;
             this.txtDebtor.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold);
             this.txtDebtor.Location = new System.Drawing.Point(199, 10);
             this.txtDebtor.Name = "txtDebtor";
+            this.txtDebtor.ReadOnly = true;
             this.txtDebtor.Size = new System.Drawing.Size(136, 30);
             this.txtDebtor.TabIndex = 21;
             // 
@@ -107,6 +111,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(362, 290);
             this.Controls.Add(this.lblRemainingTotalCount);
             this.Controls.Add(this.lblRemainingTotal);
@@ -117,6 +122,7 @@
             this.Controls.Add(this.lblDebtor);
             this.Name = "Form1";
             this.Text = "CT Phone Valid Worker";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

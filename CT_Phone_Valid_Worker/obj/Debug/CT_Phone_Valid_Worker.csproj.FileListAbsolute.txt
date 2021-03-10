@@ -1,0 +1,10 @@
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\bin\Debug\CT_Phone_Valid_Worker.exe.config
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\bin\Debug\CT_Phone_Valid_Worker.exe
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\bin\Debug\CT_Phone_Valid_Worker.pdb
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.csprojAssemblyReference.cache
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.Form1.resources
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.Properties.Resources.resources
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.csproj.GenerateResource.cache
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.csproj.CoreCompileInputs.cache
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.exe
+G:\Instructions\Visual_Studio\ZachL\Csharp\CT_Phone_Valid_Worker\CT_Phone_Valid_Worker\obj\Debug\CT_Phone_Valid_Worker.pdb
